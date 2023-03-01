@@ -15,7 +15,7 @@ variables:
   webAppName: 'java-spring-boot'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: HOSTEDUBUNTU
 
 stages:
 - stage: Build
